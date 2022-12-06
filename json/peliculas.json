@@ -1,0 +1,83 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "caratula": "https://pics.filmaffinity.com/o_kalyteros_mou_filos-919515691-mmed.jpg",
+      "titulo": "My Best Friend (O kalyteros mou filos)",
+      "año": "2001",
+      "sinopsis": "Dos amigos que acaban descubriendo que se han guardado secretos el uno del otro y que a sus espaldas se han hecho jugadas.",
+      "genero": "Comedia",
+      "director": "Yorgos Lanthimos"
+    },
+
+    {
+    "id": 2,
+    "caratula": "https://pics.filmaffinity.com/kinetta-447226717-mmed.jpg",
+    "titulo": "Kinetta",
+    "año": "2005",
+    "sinopsis": "Kinetta es una pobre y pequeña ciudad de Grecia, que, durante el invierno, es abandonada por los inmigrantes que trabajan en ella. Unos policías de paisano, apasionados por los automóviles, unos escribanos y unas mujeres rusas investigan una reciente serie de asesinatos que ocurrieron en la zona.",
+    "genero": "Drama",
+    "director": "Yorgos Lanthimos"
+  },
+
+    {
+    "id": 3,
+    "caratula": "https://pics.filmaffinity.com/kynodontas_dogtooth-612622984-mmed.jpg",
+    "titulo": "Canino (Kynodontas)",
+    "año": "2009",
+    "sinopsis": "Un matrimonio con tres hijos vive en una mansión en las afueras de una ciudad. Los chicos, que nunca han salido de casa, son educados según los métodos que sus padres juzgan más apropiados y sin recibir ninguna influencia del exterior. Creen que los aviones son juguetes o que el mar es un tipo de silla forrada de cuero. La única persona que puede entrar en la casa es Christine, guardia de seguridad en la fábrica del padre. ",
+    "genero": "Drama psicológico/Comedia negra",
+    "director": "Yorgos Lanthimos"
+  },
+
+    {
+    "id": 4,
+    "caratula": "https://pics.filmaffinity.com/alpeis_alps-444779868-mmed.jpg",
+    "titulo": "Alps (Alpeis)",
+    "año": "2011",
+    "sinopsis": "Una enfermera que trabaja por las noches en un hospital se ocupa de atender las necesidades de las familias que han perdido a sus seres queridos. Forma parte de un grupo llamado Alps, cuyos miembros ofrecen, a cambio de dinero, reemplazar a los muertos en la vida diaria de esas familias.",
+    "genero": "Drama psicológico",
+    "director": "Yorgos Lanthimos"
+  },
+
+  {
+    "id": 5,
+    "caratula": "https://pics.filmaffinity.com/the_lobster-643891588-mmed.jpg",
+    "titulo": "Langosta (The Lobster)",
+    "año": "2015",
+    "sinopsis": "Narra una historia de amor no convencional, ambientada en un mundo distópico, en el que según las reglas establecidas, los solteros son arrestados y enviados a un lugar donde tienen que encontrar pareja en un plazo de 45 días. El tema central es la soledad, el temor a morir solo, a vivir solo, y también al temor a vivir con alguien.",
+    "genero": "Ciencia ficción, Drama, Romance, Distopía, Comedia negra",
+    "director": "Yorgos Lanthimos"
+  },
+
+  {
+    "id": 6,
+    "caratula": "https://pics.filmaffinity.com/the_killing_of_a_sacred_deer-798468817-mmed.jpg",
+    "titulo": "Sacrificio de un ciervo sagrado (The Killing of a Sacred Deer)",
+    "año": "2017",
+    "sinopsis": "Steven es un eminente cirujano casado con Anna, una respetada oftalmóloga. Viven felices junto a sus dos hijos, Kim y Bob. Cuando Steven entabla amistad con Martin, un chico de dieciséis años huérfano de padre, a quien decide proteger, los acontecimientos dan un giro siniestro. Steven tendrá que escoger entre cometer un impactante sacrificio o arriesgarse a perderlo todo.",
+    "genero": "Thriller psicológico, Drama",
+    "director": "Yorgos Lanthimos"
+  },
+
+  {
+    "id": 7,
+    "caratula": "https://pics.filmaffinity.com/the_favourite-984520950-mmed.jpg",
+    "titulo": "La Favorita (The Favourite)",
+    "año": "2018",
+    "sinopsis": "Principios del siglo XVIII. Inglaterra está en guerra contra Francia. Una reina debilitada, Anne (Olivia Colman), ocupa el trono, mientras que su amiga Lady Sarah (Rachel Weisz) gobierna en la práctica el país en su lugar, debido al precario estado de salud y al carácter inestable de la monarca. Cuando una nueva sirvienta, Abigail (Emma Stone), aparece en palacio, su encanto seduce a Sarah. Esta ayuda a Abigail, la cual ve una oportunidad para regresar a sus raíces aristocráticas. Como la política ocupa gran parte del tiempo de Sarah, Abigail empieza a acompañar con más frecuencia a la reina.",
+    "genero": "Comedia negra, Drama, Siglo XVIII",
+    "director": "Yorgos Lanthimos"
+  },
+
+  {
+    "id": 8,
+    "caratula": "https://media.gq.com.mx/photos/60a7a38bee4372271f0b93b9/master/w_1600,c_limit/poor-things-book-cover.jpg",
+    "titulo": "Poor Things",
+    "año": "2023",
+    "sinopsis": "Un relato al estilo de Frankenstein ambientado en la era victoriana que cuenta la historia de Belle Baxter (Emma Stone), una joven devuelta a la vida por un científico tan excéntrico como brillante.",
+    "genero": "Thriller fantástico, Siglo XIX",
+    "director": "Yorgos Lanthimos"
+  }
+  ]
+}
