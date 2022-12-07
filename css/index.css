@@ -1,0 +1,18 @@
+body {
+  background-color: cadetblue;
+}
+
+.cardsMovies{
+  display:flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.card{
+  margin-bottom: 50px;
+}
+
+.header{
+  background-color: aliceblue;
+}
