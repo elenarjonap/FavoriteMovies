@@ -7,7 +7,7 @@ body {
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: space-around;
-  margin-right: 100px;
+  padding: 0 100px;
 }
 
 .card{
@@ -21,10 +21,11 @@ body {
   flex-direction: row;
   align-items: center;
   padding-left: 10px;
+  height: 130px;
 }
 .headerTittle{
   font-size: 70px;
-  margin-left: 330px;
+  margin-left: 380px;
   font-weight: bold;
 }
 
