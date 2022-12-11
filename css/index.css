@@ -7,12 +7,34 @@ body {
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: space-around;
+  margin-right: 100px;
 }
 
 .card{
-  margin-bottom: 50px;
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 
 .header{
   background-color: aliceblue;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 10px;
+}
+.headerTittle{
+  font-size: 70px;
+  margin-left: 330px;
+  font-weight: bold;
+}
+
+.footer{
+  background-color: aliceblue;
+  height: 60px;
+  width: auto;
+  font-size: 25px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
