@@ -1,3 +1,7 @@
+*{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 body {
   background-color: cadetblue;
 }
@@ -13,6 +17,7 @@ body {
 .card{
   margin-top: 80px;
   margin-bottom: 80px;
+  font-size: 8px;
 }
 
 .header{
@@ -33,7 +38,7 @@ body {
   background-color: aliceblue;
   height: 60px;
   width: auto;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
   display: flex;
   align-items: center;
