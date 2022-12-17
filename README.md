@@ -15,7 +15,7 @@ Learning to use JSON by making an interesting director's movie billboard
 ***
 
 # Stacks:
-HTML5, CSS3 & Bootstrap
+HTML5, CSS3, JS6 & Bootstrap 5.2
 
 ***
 
