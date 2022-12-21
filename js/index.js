@@ -26,7 +26,7 @@ async function fetchMoviesJson(){
         <div class="card" style="width: 18rem;">
           <img src="${img}" class="card-img-top" alt="...">
           <div class="card-body">
-            <h3 class="card-title">${id}. ${title}</h3>
+            <h3 class="card-title">${title}</h3>
             <h4 class="card-year">${year}</h4>
             <h5 class="card-title">Director: ${director}</h5>
             <h5 class="card-title">Genero: ${genre}</h5>
